@@ -1,5 +1,4 @@
 ''' This is a new version of classic game road fighter'''
-#(insert the documentation)
 
 import random
 import time
