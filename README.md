@@ -1,7 +1,9 @@
 # road_fighter
 New version of classical konami game road fighter
 
-**first you need to install python3 and pygame to run it on your local machine**
+#### **first you need to install python3 and pygame to run it on your local machine**
+to install pygame, use command:
+*sudo apt-get install python3-pygame*
 
 ## Introduction
 This a game in which you drive a car in a death race between you and a group of mad drivers.
