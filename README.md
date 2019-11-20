@@ -1,9 +1,9 @@
 # Road_Fighter
 New version of classical konami game road fighter
 
-#### **first you need to install python3 and pygame to run it on your local machine**
-to install pygame, use command:
-*sudo apt-get install python3-pygame*
+#### **You need to install python3 and pygame module to run it on your local machine**
+To install pygame, use command:
+`sudo apt-get install python3-pygame`
 
 ## Introduction
 This a game in which you drive a car in a death race between you and a group of mad drivers.
@@ -44,9 +44,8 @@ We have **levels** too! As the player scores more, the level changes. Curretly t
 - For muting or unmuting the sound: "m" button can be used.
 
 ### What we did to make the project?
-We have made the game using the pygame module in Python.
-Pygame is a wonderful module, it helped us a lot to create an exciting game.
-That is what motivated us to make a project.
+We have made the game using the PyGame module in Python. The motivation of the project was to become proficient in Python, PyGame module helped us to explore the pythonic nature of Python. 
+
 
 
 
