@@ -1,4 +1,4 @@
-# road_fighter
+# Road_Fighter
 New version of classical konami game road fighter
 
 #### **first you need to install python3 and pygame to run it on your local machine**
